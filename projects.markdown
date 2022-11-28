@@ -6,8 +6,8 @@ permalink: /projects/
 
 Here is a list of various projects that I have completed:
 
-[Naux](https://nauxt.bandcamp.com)
+[Naux](https://nauxt.bandcamp.com)  
 
-[Atra Charta](https://atracharta.wordpress.com)
+[Atra Charta](https://atracharta.wordpress.com)  
 
-[Parm Cuts](https://parmcuts.wordpress.com)
+[Parm Cuts](https://parmcuts.wordpress.com)  
