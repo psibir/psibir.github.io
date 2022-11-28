@@ -1,7 +1,7 @@
 ---
 layout: page
 title: resume
-permalink: /resume/
+permalink: /page/resume/
 ---
 
 Here is where you can view or download my [resume][1].
