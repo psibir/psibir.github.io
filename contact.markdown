@@ -4,5 +4,5 @@ title: contact
 permalink: /contact/
 ---
 
-Here's a few ways to contact me:
+Here is the best way to contact me:
 [email](bloomfieldtm@gmail.com)

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: contact
-permalink: /contact/
+title: bio
+permalink: /bio/
 ---
 
-Here's a few ways to contact me:
-[email](bloomfieldtm@gmail.com)
+This is a page with my technological biography.
+
+I have been playing with computers from an early age.

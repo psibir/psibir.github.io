@@ -1,7 +1,9 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: resume
+permalink: /resume/
 ---
 
-Here is a list of various projects that i have contributed to or completed. 
+Here is where you can view or download my [resume][1].
+
+[1]:https://psibir.github.io/downloads/resume.pdf
