@@ -6,5 +6,5 @@ categories: projects
 ---
 
 I have added links to some of my audio projects and a Wordpress site with some
-sketches I did during the slow times at my retail job. While they may not be as 
-interesting on their own, the increasing additions make for entertaining additions.
+sketches I did during the slow times at my retail job. While they may not be as
+interesting on their own, the increasing additions make for entertaining browsing. You can find a link to them [here](https://psibir.github.io/page/projects/).
