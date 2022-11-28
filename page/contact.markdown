@@ -5,4 +5,4 @@ permalink: /page/contact/
 ---
 
 Here is the best way to contact me:
-[email](bloomfieldtm@gmail.com)
+[email](mailto:bloomfieldtm@gmail.com)
