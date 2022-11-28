@@ -10,4 +10,6 @@ Here is a list of various projects that I have completed:
 
 [Atra Charta](https://atracharta.wordpress.com) - Sketches
 
+[Philpeople](https://philpeople.org/profiles/trevor-bloomfield?preview=true) - Philosophy Manuscripts  
+
 [Parm Cuts](https://parmcuts.wordpress.com) - Cutting Cheese  
