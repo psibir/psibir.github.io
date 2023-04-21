@@ -5,9 +5,9 @@ date:   2023-04-20 22:05
 categories: projects
 ---
 
-For this project, i tried to make something that had practical usability at my job. 
+For this project, i tried to make something that had practical use at my job at a cheese shop that serves grilled cheese sandwiches and gourmet melts. 
 
-Thinking of new sandwiches gets old and you get stuck in patterns. Thats where the sandwich-generator steps in.
+Thinking of new sandwiches gets old and you get stuck in patterns. Having a new 'Grilled Cheese of the Week' each week allows a testing ground for new mainstays and a chance for your next customer to find their new favorite. Thats where the sandwich-generator steps in.
 
 Faster than picking names out of a hat, easier than thinking of combinations in rapid succession. This chef's aid comes in handy for the amateur and the enterprise user alike!
 
