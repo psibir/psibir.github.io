@@ -4,7 +4,7 @@ title: bio
 permalink: /page/bio/
 ---
 
-As a passionate cheesemonger, I have spent years honing my skills in selecting, aging, and presenting the finest artisanal cheeses to discerning customers. However, I have also been drawn to the world of software development, and I have worked hard to acquire the skills and knowledge necessary to excel in this field.
+I am a former cheesemonger turned software developer with a passion for leveraging technology to solve complex problems. As an experienced professional in the cheese industry, I developed a keen eye for detail and a deep understanding of the importance of providing exceptional customer experiences. 
 
 With a keen eye for detail and a deep appreciation for the power of data, I have developed a range of software projects that showcase my ability to apply cutting-edge technology to real-world challenges. From developing a cheese recommendation engine that delivers personalized recommendations based on user input, to creating a dynamic inventory management system that streamlines the ordering and tracking of cheese products, my projects highlight my ability to leverage data and technology to drive business success.
 
