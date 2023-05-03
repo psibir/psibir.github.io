@@ -5,5 +5,6 @@
 layout: home
 ---
 
+<script async src="https://cse.google.com/cse.js?cx=b746ee2759e07402e">
+</script>
 <div class="gcse-search"></div>
-
