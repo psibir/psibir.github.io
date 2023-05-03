@@ -29,6 +29,7 @@ linkedin_username: trevor-bloomfield
 
 # Build settings
 theme: minima
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
