@@ -5,4 +5,5 @@
 layout: home
 ---
 
-{% include google-search.html %}
+<div class="gcse-search"></div>
+
