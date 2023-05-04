@@ -7,6 +7,7 @@ permalink: /page/services/
 Here is a list of services that I can provide:
 
 - Web Scraping
+- Static Website Creation
 - Photo Editing
 - Audio Editing
 - Music Production
