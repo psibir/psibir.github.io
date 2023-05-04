@@ -18,4 +18,4 @@ When it comes to accessing information about social services, the digital age ha
 For one, digital resources are often more accessible to those with disabilities. Physical pamphlets may not be designed with accessibility in mind, whereas digital resources can be optimized for use with screen readers, magnifiers, and other assistive technologies.
 Additionally, digital resources are more convenient for some who lack transportation or live in rural areas. Rather than having to physically travel to a government office or other location to pick up a pamphlet, residents can access the information they need via the Internet.
 
-You can find a link to na-resources [here](psibir.github.io/nwa-resources/).
+You can find a link to nwa-resources [here](psibir.github.io/nwa-resources/).
