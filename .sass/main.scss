@@ -1,0 +1,10 @@
+$font-stack-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-stack-serif: "Calisto MT", Georgia, serif;
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-stack-sans-serif;
+}
+
+body {
+  font-family: $font-stack-serif;
+}
