@@ -13,4 +13,4 @@ Here is a list of services that I can provide:
 - Music Production
 
 
-For inquiries regarding services, contact me is via [email](mailto:bloomfieldtm@gmail.com)
+For inquiries regarding services, contact me via [email](mailto:bloomfieldtm@gmail.com)
