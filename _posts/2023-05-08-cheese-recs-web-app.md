@@ -40,4 +40,4 @@ The Cheese Recommender web app has opened up a whole new world of cheese explora
 
 If you're passionate about cheese or simply curious to explore the diverse world of cheese, I invite you to try the Cheese Recommender web app. It's a gateway to a delightful journey through flavors, textures, and aromas that will undoubtedly leave you craving for more cheese discoveries.
 
-Try the Cheese Recommender web app today and embark on a cheese-tasting adventure like no other!
+Try the Cheese Recommender web app today and embark on a cheese-tasting adventure like no other! Here is the link: [Cheese Recommender](https://cheese-recs-l7af2uou2a-uc.a.run.app/cheese/471)
