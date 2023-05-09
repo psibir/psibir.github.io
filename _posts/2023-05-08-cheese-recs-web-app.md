@@ -11,6 +11,8 @@ categories: projects
 
 Cheese is a versatile and beloved food that comes in countless varieties, each with its own unique characteristics. As a cheese enthusiast, I often find myself overwhelmed by the vast selection available. That's when I decided to create a Cheese Recommender web app to simplify the process of discovering new and exciting cheeses. In this blog post, I'll take you through the journey of building and using the Cheese Recommender web app.
 
+[Cheese Recommender](https://cheese-recs-l7af2uou2a-uc.a.run.app)
+
 ### Building the Cheese Recommender Web App
 
 To bring my cheese exploration vision to life, I turned to Flask, a lightweight web framework for Python. Flask provides the perfect foundation for building web applications, and its simplicity allowed me to focus on the core functionality of the Cheese Recommender.
@@ -40,4 +42,4 @@ The Cheese Recommender web app has opened up a whole new world of cheese explora
 
 If you're passionate about cheese or simply curious to explore the diverse world of cheese, I invite you to try the Cheese Recommender web app. It's a gateway to a delightful journey through flavors, textures, and aromas that will undoubtedly leave you craving for more cheese discoveries.
 
-Try the Cheese Recommender web app today and embark on a cheese-tasting adventure like no other! Here is the link: [Cheese Recommender](https://cheese-recs-l7af2uou2a-uc.a.run.app/cheese/471)
+Try the Cheese Recommender web app today and embark on a cheese-tasting adventure like no other! Here is the link: [Cheese Recommender](https://cheese-recs-l7af2uou2a-uc.a.run.app)
