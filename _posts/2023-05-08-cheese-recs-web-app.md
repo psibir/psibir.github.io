@@ -15,7 +15,7 @@ Cheese is a versatile and beloved food that comes in countless varieties, each w
 
 ### Building the Cheese Recommender Web App
 
-To bring my cheese exploration vision to life, I turned to Flask, a lightweight web framework for Python. Flask provides the perfect foundation for building web applications, and its simplicity allowed me to focus on the core functionality of the Cheese Recommender.
+In a [previous post](https://psibir.github.io/projects/2023/04/30/cheese-recommendation.html), I outlined a cheese recommendation engine crafted in Python with a command line interface. With some tinkering, I was able to translate the engine into a web application. To bring my cheese exploration vision to life, I turned to Flask, a lightweight web framework for Python. Flask provides the perfect foundation for building web applications, and its simplicity allowed me to focus on the core functionality of the Cheese Recommender.
 
 The Cheese Recommender web app uses the Flask framework to handle user interactions and render dynamic web pages. It leverages a CheeseRecommender class, implemented in the cheese_recommender module, to generate personalized cheese recommendations based on user preferences.
 
