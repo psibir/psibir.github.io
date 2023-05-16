@@ -5,8 +5,6 @@ date:   2023-05-16 01:40
 categories: article
 ---
 
-## Marching Band: A Blueprint for Organizational Excellence
-
 A marching band is composed of individuals with unique skills, but success comes from each understanding their role and working as a united team. Every member makes their contribution, whether they are in the low brass section, the horns and reeds, the drumline, color guard, the twirlers, or the principle piccolo.
 
 Marching band exemplifies discipline, teamwork, and creativity through its practice and production. One does not just listen to a marching band. You *experience* the band as a moving mass of shape and color shifting between cacophony to harmony, exploding sound while retaining rhythmic familiarity. It is chaos made coherent from a particular point of view, much like the flurry of actions that occur with an organization. In many ways, the performers and the collection of their efforts embodyies the principles of organizational excellence. 
