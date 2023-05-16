@@ -4,7 +4,7 @@ title: services
 permalink: /page/services/
 ---
 
-Here is a list of services that I can provide:
+Here is a list of services that I provide:
 
 - Software Development (Python)
 - Web Scraping
