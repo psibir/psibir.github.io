@@ -6,6 +6,7 @@ permalink: /page/services/
 
 Here is a list of services that I can provide:
 
+- Software Development (Python)
 - Web Scraping
 - Static Website Creation
 - Photo Editing
