@@ -31,6 +31,10 @@ disqus:
 
 permalink: /:categories/:title/
 
+collections:
+  category:
+    output: true
+
 # Build settings
 theme: minima
 plugins:
