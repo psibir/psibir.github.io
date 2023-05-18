@@ -35,6 +35,14 @@ collections:
   category:
     output: true
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "categorypage"
+
 # Build settings
 theme: minima
 plugins:
