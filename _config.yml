@@ -29,7 +29,7 @@ linkedin_username: trevor-bloomfield
 disqus:
   shortname: https-psibir-github-io
 
-
+permalink: /:categories/:title/
 
 # Build settings
 theme: minima
