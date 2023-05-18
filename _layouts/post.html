@@ -11,4 +11,13 @@ layout: default
 
 {{ content }}
 
+{% if page.categories %}
+  <span class="post-categories">
+    {% for category in page.categories %}
+      <a href="{{ '/categories/' | relative_url }}{{ category | slugify }}">{{ category }}</a>
+    {% endfor %}
+  </span>
+{% endif %}
+
+
 {% include disqus.html %}
