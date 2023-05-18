@@ -26,6 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://psibir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  psibir
 linkedin_username: trevor-bloomfield
+disqus:
+  shortname: https-psibir-github-io
+
+
 
 # Build settings
 theme: minima
