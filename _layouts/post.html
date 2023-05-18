@@ -5,9 +5,10 @@ layout: default
 <h2 class="post_title">
   {{ page.title }}
   {% if page.date %}
-    <small>{{ page.date | date_to_string }}</small>
+    <span style="font-size: 0.8em;">{{ page.date | date_to_string }}</span>
   {% endif %}
 </h2>
+
 
 {{ content }}
 
