@@ -2,8 +2,6 @@
 layout: default
 title: blog
 ---
-<h1>Latest Posts</h1>
-
 
 <!-- Html Elements for Search -->
 <div id="search-container">
@@ -22,6 +20,8 @@ SimpleJekyllSearch({
   json: '/search.json'
 })
 </script>
+
+<h1>Latest Posts</h1>
 
 <ul>
   {% for post in site.posts %}
