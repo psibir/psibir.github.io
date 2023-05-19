@@ -4,6 +4,25 @@ title: blog
 ---
 <h1>Latest Posts</h1>
 
+
+<!-- Html Elements for Search -->
+<div id="search-container">
+  <form>
+    <input type="text" id="search-input" placeholder="search...">
+  </form>
+  <ul id="results-container"></ul>
+</div>
+<!-- Script pointing to search-script.js -->
+<script src="https://psibir.github.io/js/search-script.js" type="text/javascript"></script>
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+</script>
+
 <ul>
   {% for post in site.posts %}
     <li>
