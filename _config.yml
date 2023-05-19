@@ -44,7 +44,8 @@ defaults:
       layout: "categorypage"
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: songzivong/dark-minima
 plugins:
   - jekyll-feed
 
