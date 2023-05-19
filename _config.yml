@@ -41,7 +41,7 @@ defaults:
       path: ""
       type: category
     values:
-      layout: "categorypage"
+      layout: "default"
 
 # Build settings
 # theme: minima
