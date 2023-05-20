@@ -1,6 +1,6 @@
 # Personal Website Repository
 
-This repository contains the source code for my personal website hosted at [https://psibir.github.io](https://psibir.github.io). The website is built using Ruby and Jekyll, and is hosted using GitHub Pages. The current theme used for the website is minima.
+This repository contains the source code for my personal website hosted at [https://psibir.github.io](https://psibir.github.io). The website is built using Ruby and Jekyll, and is hosted using GitHub Pages. The current remote theme used for the website is minima-dark.
 
 ## Blog
 
