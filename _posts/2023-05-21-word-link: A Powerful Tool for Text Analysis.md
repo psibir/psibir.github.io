@@ -58,7 +58,7 @@ The `word-link` module can be a valuable tool for businesses aiming to improve t
 
 3. **Generating Word Links**: The company specifies the search term as a relevant keyword or phrase, sets the search directory to the location where the feedback files are stored, and runs the `word-link` script. The module scans through each feedback file, identifies occurrences of the search term, and generates clickable links to those instances.
 
-4. **Analyzing Results**: The `WordLinkGenerator` provides the company with the output either in an HTML file or displayed directly in the console. They can navigate the generated links to quickly access the relevant customer feedback and gain insights into the specific issues or requested features.
+4. **Analyzing Results**: The `word-link` module provides the company with the output either in an HTML file or displayed directly in the console. They can navigate the generated links to quickly access the relevant customer feedback and gain insights into the specific issues or requested features.
 
 5. **Actionable Insights**: With the identified recurring issues and feature requests, the company can prioritize their product improvement efforts accordingly. They can address common pain points, fix bugs, and implement highly requested features to enhance customer satisfaction and loyalty.
 
