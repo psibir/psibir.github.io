@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "word-link: A Powerful Tool for Text Analysis"
+title:  "wordlink: A Powerful Tool for Text Analysis"
 date:   2023-05-21 20:20
 categories: projects
 ---
 
-In today’s blog post, we will explore a Python module called word-link that allows you to generate word links within a given directory. This module is designed to help you quickly locate specific words or phrases in files and create links to their occurrences, making it an invaluable tool for text analysis and exploration.
+In today’s blog post, we will explore a Python module called wordlink that allows you to generate word links within a given directory. This module is designed to help you quickly locate specific words or phrases in files and create links to their occurrences, making it an invaluable tool for text analysis and exploration.
 
-You can clone or fork `word-link` [here](https://github.com/psibir/wordlink)
+See it on [PyPi](https://pypi.org/project/wordlink/)
+
+You can clone or fork `wordlink` [here](https://github.com/psibir/wordlink)
 
 ## Design and Functionality
 
-The word-link module leverages several key Python libraries to achieve its functionality. Let’s take a closer look at its design and build process:
+The wordlink module leverages several key Python libraries to achieve its functionality. Let’s take a closer look at its design and build process:
 
 ## Required Libraries
 
@@ -50,16 +52,16 @@ Once the command-line arguments are parsed, the WordLinkGenerator object is inst
 
 ## Business Use Case: Analyzing Customer Feedback for Product Improvement
 
-The `word-link` module can be a valuable tool for businesses aiming to improve their products or services based on customer feedback. Let's consider a specific use case: a software company that wants to analyze customer reviews and identify recurring issues or feature requests.
+The `wordlink` module can be a valuable tool for businesses aiming to improve their products or services based on customer feedback. Let's consider a specific use case: a software company that wants to analyze customer reviews and identify recurring issues or feature requests.
 
 1. **Data Collection**: The company collects customer feedback from various sources, such as online review platforms, support tickets, and feedback forms. They save the feedback as plain text files, with each file representing a single customer comment.
 
-2. **Text Analysis**: The company wants to analyze the feedback to understand the most common issues or requested features. They can use the `word-link` module to search for specific keywords or phrases related to common problems or desired enhancements.
+2. **Text Analysis**: The company wants to analyze the feedback to understand the most common issues or requested features. They can use the `wordlink` module to search for specific keywords or phrases related to common problems or desired enhancements.
 
-3. **Generating Word Links**: The company specifies the search term as a relevant keyword or phrase, sets the search directory to the location where the feedback files are stored, and runs the `word-link` script. The module scans through each feedback file, identifies occurrences of the search term, and generates clickable links to those instances.
+3. **Generating Word Links**: The company specifies the search term as a relevant keyword or phrase, sets the search directory to the location where the feedback files are stored, and runs the `wordlink` script. The module scans through each feedback file, identifies occurrences of the search term, and generates clickable links to those instances.
 
-4. **Analyzing Results**: The `word-link` module provides the company with the output either in an HTML file or displayed directly in the console. They can navigate the generated links to quickly access the relevant customer feedback and gain insights into the specific issues or requested features.
+4. **Analyzing Results**: The `wordlink` module provides the company with the output either in an HTML file or displayed directly in the console. They can navigate the generated links to quickly access the relevant customer feedback and gain insights into the specific issues or requested features.
 
 5. **Actionable Insights**: With the identified recurring issues and feature requests, the company can prioritize their product improvement efforts accordingly. They can address common pain points, fix bugs, and implement highly requested features to enhance customer satisfaction and loyalty.
 
-By utilizing the `word-link` module, businesses can streamline the process of analyzing customer feedback, save time in manually searching through multiple files, and gain actionable insights to drive product improvement initiatives.
+By utilizing the `wordlink` module, businesses can streamline the process of analyzing customer feedback, save time in manually searching through multiple files, and gain actionable insights to drive product improvement initiatives.
