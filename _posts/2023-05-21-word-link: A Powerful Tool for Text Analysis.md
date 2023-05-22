@@ -15,10 +15,10 @@ The word-link module leverages several key Python libraries to achieve its funct
 
 ## Required Libraries
 
-	•	os: This module provides a way to interact with the operating system, allowing the script to traverse directories and access file paths.
-	•	argparse: This library simplifies the process of parsing command-line arguments and options.
-	•	fuzzysearch: It provides fuzzy string matching capabilities, specifically the find_near_matches function, which helps identify approximate matches of a search term within a line of text.
-	•	prettytable: This library enables the creation of nicely formatted tables for console output.
+- os: This module provides a way to interact with the operating system, allowing the script to traverse directories and access file paths.
+- argparse: This library simplifies the process of parsing command-line arguments and options.
+- fuzzysearch: It provides fuzzy string matching capabilities, specifically the find_near_matches function, which helps identify approximate matches of a search term within a line of text.
+- prettytable: This library enables the creation of nicely formatted tables for console output.
 
 ### WordLinkGenerator Class
 
