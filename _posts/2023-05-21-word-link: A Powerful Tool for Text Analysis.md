@@ -26,19 +26,19 @@ The core functionality is encapsulated within the WordLinkGenerator class, which
 
 The class provides two main methods:
 
-#### find_word_locations(file_path)
+### find_word_locations(file_path)
 
 This method takes a file path as input and searches for occurrences of the search_term within that file. It reads the file line by line, using find_near_matches to identify approximate matches. The method returns a list of tuples, each containing the file path, line number, line text, and the starting index of the match.
 
-#### generate_links()
+### generate_links()
 
 This method is responsible for traversing the search_directory and processing all files within it. For each file, it calls find_word_locations to obtain the word locations. The results are stored in a list and then either output to an HTML file or displayed in the console, depending on the presence of the output_file parameter.
 
-##### output_links_html(word_locations)
+### output_links_html(word_locations)
 
 This method generates an HTML output file containing a table of word locations. It takes a list of word locations as input and constructs HTML code to display the information in a table format. Each row of the table includes the file path, line number, and a clickable link to the specific line containing the word. The output is written to the specified output_file.
 
-##### output_links_console(word_locations)
+### output_links_console(word_locations)
 
 This method generates a formatted table using the prettytable library and outputs the results directly to the console. Each row of the table represents a word location, displaying the file path, line number, and line text.
 
