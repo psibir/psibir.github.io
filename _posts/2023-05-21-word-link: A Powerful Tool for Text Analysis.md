@@ -7,7 +7,7 @@ categories: projects
 
 In today’s blog post, we will explore a Python module called word-link that allows you to generate word links within a given directory. This module is designed to help you quickly locate specific words or phrases in files and create links to their occurrences, making it an invaluable tool for text analysis and exploration.
 
-You can clone or fork `word-link` [here](https://github.com/psibir/word-link)
+You can clone or fork `word-link` [here](https://github.com/psibir/wordlink)
 
 ## Design and Functionality
 
