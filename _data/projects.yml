@@ -9,7 +9,7 @@
   logo: /assets/images/wordlink_logo.png
   description: A Word Link Generator that searches for a given term in multiple text files within a specified directory and generates links to the matched occurrences
   use_case: For finding relevant strings in text and their citations in the documents that contain them.
-  blog_post: /_posts/2023-05-21-wordlink: A Powerful Tool for Text Analysis.md
+  blog_post: /_posts/2023-05-21-wordlink A Powerful Tool for Text Analysis.md
   github_link: https://github.com/psibir/wordlink
 
 # Add more projects as needed
