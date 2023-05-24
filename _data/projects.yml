@@ -12,4 +12,12 @@
   blog_post: https://psibir.github.io/projects/wordlink-A-Powerful-Tool-for-Text-Analysis/
   github_link: https://github.com/psibir/wordlink
 
+
+- name: friendex
+  logo: /assets/images/friendex_logo.png
+  description: friendex is a command-line module for tracking and managing friendships
+  use_case: A great way to track common interests and topics of discussion trends over time.
+  blog_post: 
+  github_link: https://github.com/psibir/friendex
+  
 # Add more projects as needed
