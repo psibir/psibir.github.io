@@ -1,15 +1,15 @@
 - name: Cheese Recommender Web App
   logo: /path/to/project1-logo.png
-  description: Project 1 description goes here.
-  use_case: Use case for Project 1.
-  blog_post: /path/to/project1-blog-post.html
-  github_link: https://github.com/project1
+  description: A cheese recommendation website built with Flask and deployed on Google Cloud Run
+  use_case: This project could be useful for a cheese retailer or distributor to provide personalized recommendations to their customers. By asking customers about their preferences and excluding any qualities they do not like, the retailer can provide a curated list of cheeses that are more likely to be appealing to the customer. This could increase customer satisfaction and potentially lead to higher sales.
+  blog_post: /_posts/2023-05-08-cheese-recs-web-app.md
+  github_link: https://github.com/psibir/cheese-recs
 
 - name: wordlink
-  logo: /path/to/project2-logo.png
-  description: Project 2 description goes here.
-  use_case: Use case for Project 2.
-  blog_post: /path/to/project2-blog-post.html
-  github_link: https://github.com/project2
+  logo: /assets/images/wordlink_logo.png
+  description: A Word Link Generator that searches for a given term in multiple text files within a specified directory and generates links to the matched occurrences
+  use_case: For finding relevant strings in text and their citations in the documents that contain them.
+  blog_post: /_posts/2023-05-21-wordlink: A Powerful Tool for Text Analysis.md
+  github_link: https://github.com/psibir/wordlink
 
 # Add more projects as needed
