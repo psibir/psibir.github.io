@@ -2,6 +2,6 @@
 layout: projects
 title: projects
 category: projects
-permalink: /page/projects/
+permalink: /pages/projects/
 show_in_navbar: true
 ---
