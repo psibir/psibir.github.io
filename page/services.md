@@ -1,9 +1,10 @@
 ---
 layout: page
-title: services
 permalink: /page/services/
 show_in_navbar: true
 ---
+
+## services ##
 
 Here is a list of services that I provide:
 
