@@ -28,7 +28,16 @@ show_in_navbar: true
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      {% if post.excerpt contains '<p>' %}
+        {{ post.excerpt }}
+      {% else %}
+        {% assign excerpt_text = post.content | strip_html | truncatewords: 30 %}
+        {% if excerpt_text %}
+          <p>{{ excerpt_text }}</p>
+        {% else %}
+          <p>No excerpt available.</p>
+        {% endif %}
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
