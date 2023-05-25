@@ -6,19 +6,22 @@ permalink: /pages/projects/
 
 <script>
   function toggleView() {
-    const projectsContainer = document.getElementById('projects-container');
-    projectsContainer.classList.toggle('grid-view');
+    var container = document.getElementById("projectsContainer");
+    container.classList.toggle("grid-view");
   }
 </script>
 
 <main class="page-content" aria-label="Content">
   <div class="wrapper">
-    <button onclick="toggleView()">Toggle View</button>
-
-    <div id="projects-container" class="projects-container">
+    <div class="view-toggle">
+      <button onclick="toggleView()">Toggle View</button>
+    </div>
+    <div id="projectsContainer" class="projects-container">
       {% for project in site.data.projects %}
         <div class="project">
-          <img src="{{ project.logo }}" alt="{{ project.name }} Logo" class="project-logo">
+          <a href="{{ project.blog_post }}">
+            <img src="{{ project.logo }}" alt="{{ project.name }} Logo" class="project-logo">
+          </a>
           <h2>{{ project.name }}</h2>
           <p>{{ project.description }}</p>
           <h3>Use Case</h3>
@@ -30,3 +33,27 @@ permalink: /pages/projects/
     </div>
   </div>
 </main>
+
+<style>
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .project {
+    width: 300px;
+    margin: 10px;
+  }
+
+  .project-logo {
+    width: 100%;
+    max-height: 150px;
+    object-fit: cover;
+  }
+
+  @media (min-width: 768px) {
+    .grid-view .project {
+      width: calc(33.33% - 20px); /* Adjust the percentage and margin as needed */
+    }
+  }
+</style>
