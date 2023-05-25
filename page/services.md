@@ -1,5 +1,6 @@
 ---
 layout: page
+title: services
 permalink: /page/services/
 show_in_navbar: true
 ---
