@@ -28,19 +28,6 @@ show_in_navbar: true
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {% assign excerpt_text = post.excerpt | remove: '<img.*?>' | strip_html %}
-      {% if excerpt_text %}
-        <p>{{ excerpt_text }}</p>
-      {% else %}
-        {% assign paragraphs = post.content | split:'</p>' %}
-        {% for paragraph in paragraphs %}
-          {% assign text = paragraph | strip_html %}
-          {% if text %}
-            <p>{{ text }}</p>
-            {% break %}
-          {% endif %}
-        {% endfor %}
-      {% endif %}
     </li>
   {% endfor %}
 </ul>
