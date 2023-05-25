@@ -5,6 +5,8 @@ date:   2023-05-22 23:01
 categories: projects
 ---
 
+![image](/assets/images/friendex_logo.png)
+
 It's easy to lose track of the people who matter most to us. Whether it's friends, family, or colleagues, maintaining meaningful connections requires effort and attention. That's where the `friendex` comes in. With this command-line tool, you can effortlessly manage your social connections, keep track of when you last spoke to someone, and even search for friends based on specific criteria. Let's take a closer look at the code behind this powerful tool.
 
 You can find a link to the GitHub repository for friendex [here](https://github.com/psibir/friendex)
