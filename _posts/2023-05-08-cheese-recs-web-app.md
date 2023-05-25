@@ -7,10 +7,6 @@ categories: projects
 
 ![image](/assets/images/cheese-recs_logo.png)
 
-# Cheese Recommender Web App
-
-### Introduction
-
 Cheese is a versatile and beloved food that comes in countless varieties, each with its own unique characteristics. As a cheese enthusiast, I often find myself overwhelmed by the vast selection available. That's when I decided to create a Cheese Recommender web app to simplify the process of discovering new and exciting cheeses. In this blog post, I'll take you through the journey of building and using the Cheese Recommender web app.
 
 [Cheese Recommender](https://cheese-recs-l7af2uou2a-uc.a.run.app)

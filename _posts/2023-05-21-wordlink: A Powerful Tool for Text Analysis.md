@@ -7,7 +7,7 @@ categories: projects
 
 ![image](/assets/images/wordlink_logo.png)
 
-In today’s blog post, we will explore a Python module called wordlink that allows you to generate word links within a given directory. This module is designed to help you quickly locate specific words or phrases in files and create links to their occurrences, making it an invaluable tool for text analysis and exploration.
+Today we will explore a Python module called wordlink that allows you to generate word links within a given directory. This module is designed to help you quickly locate specific words or phrases in files and create links to their occurrences, making it an invaluable tool for text analysis and exploration.
 
 See it on [PyPi](https://pypi.org/project/wordlink/)
 
