@@ -18,5 +18,18 @@ permalink: /pages/projects/
         <a href="{{ project.github_link }}">GitHub</a>
       </div>
     {% endfor %}
+
+    {% assign show_all = true %}
+
+    {% if show_all %}
+      {% for post in site.posts %}
+        <div class="project">
+          <h2>{{ post.title }}</h2>
+          <p>{{ post.excerpt }}</p>
+          <a href="{{ post.url }}">Read More</a>
+        </div>
+      {% endfor %}
+    {% endif %}
+
   </div>
 </main>
