@@ -5,6 +5,8 @@ date:   2023-05-08 11:07
 categories: projects
 ---
 
+![image](/assets/images/cheese-recs_logo.png)
+
 # Cheese Recommender Web App
 
 ### Introduction
