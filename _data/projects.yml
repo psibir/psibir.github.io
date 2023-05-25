@@ -17,7 +17,14 @@
   logo: /assets/images/friendex_logo.png
   description: friendex is a command-line module for tracking and managing friendships
   use_case: A great way to track common interests and topics of discussion trends over time.
-  blog_post: 
+  blog_post: https://psibir.github.io/projects/friendex-Manage-Your-Social-Connections/
   github_link: https://github.com/psibir/friendex
+  
+- name: nounseed
+  logo: /assets/images/nounseed_logo.png
+  description: Generates and stores project ideas based on a list of nouns
+  use_case: Good for brainstorming and colliding concepts for inspiration or pleasure
+  blog_post: 404
+  github_link: https://github.com/psibir/nounseed
   
 # Add more projects as needed
