@@ -4,7 +4,7 @@ title: bio
 permalink: /page/bio/
 ---
 
-### Me in ten seconds
+### me in ten seconds
 
 I have been a musician, a writer, a cheesemonger, and a Python developer.
 
