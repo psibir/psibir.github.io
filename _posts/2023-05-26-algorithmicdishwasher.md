@@ -190,7 +190,7 @@ Bottom Line: Merge Sort excels in its sorting capabilities, ensuring that items 
    
    Example: Let's consider a dishwasher with n = 100 dishes and k = 10 buckets. Each dish is placed in its corresponding bucket based on its size category. If the distribution of the dish sizes is relatively even, the number of dishes in each bucket would be roughly the same (i.e., 10 dishes per bucket on average). Sorting each bucket with a simple algorithm like Insertion Sort within the dishwasher would take O(k * (10^2/2)) = O(k * 50) = O(k) = O(10) = O(1) time complexity. Therefore, the overall time complexity of Bucket Sort would be O(n + k) = O(100 + 10) = O(110).
 
-#### Merge Sort
+### Merge Sort
 
    - Time Complexity: O(n log n)
    - Explanation: Merge Sort divides the items into smaller groups, recursively sorts each group, and then merges them back together in a sorted manner. It has a time complexity of O(n log n) regardless of the initial order of the items.
