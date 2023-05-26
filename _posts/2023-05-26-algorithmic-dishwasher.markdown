@@ -5,8 +5,6 @@ date: 2023-05-26 03:45
 categories: article
 ---
 
-Title: Algorithmic Loading and Unloading of an Automatic Dishwasher
-
 # Table of Contents
 
 
