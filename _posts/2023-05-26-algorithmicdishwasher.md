@@ -241,6 +241,7 @@ There are several other features of the dishwasher, dish, drying rack, and the d
 14. Cleaning Filters and Spray Arms: Regularly clean the dishwasher's filters and inspect the spray arms for any debris or blockages. This maintenance helps maintain optimal performance and prevents clogging during the wash cycle.
 15. Energy and Water Conservation: When loading the dishwasher, aim to maximize the number of items cleaned in a single cycle while considering energy and water conservation. Avoid running the dishwasher with partial loads, as this wastes resources.
 16. Unloading Sequence: Plan the unloading sequence to ensure maximum efficiency. Start by unloading the lower rack first, as items on the upper rack might drip water onto the lower rack when removed. Take care when unloading delicate items, ensuring they are properly dried or air-dried before handling.
+17. Full Hands In, Full Hands Out: A staple rule in the service industry. Move from workstations with a full load of dishes to take to the sink. If your hands are still clean, take back dishes to a nearby dish home destination on your return trip.
 
 # X. Dishwashing Workflow Optimization {#workflow}
 
