@@ -176,7 +176,7 @@ Bottom Line: Bucket Sort can offer efficiency in loading by ensuring that items 
 
 Bottom Line: Merge Sort excels in its sorting capabilities, ensuring that items are loaded into the dishwasher in a predetermined order. This can be advantageous when prioritizing certain conditions or organizing items based on specific criteria.
 
-VII. Time Complexity of Sorting Algorithms Applied to Dishwashing {#complexity}
+# VII. Time Complexity of Sorting Algorithms Applied to Dishwashing {#complexity}
 
 ### Insertion Sort
 
