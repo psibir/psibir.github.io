@@ -28,6 +28,8 @@ github_username:  psibir
 linkedin_username: trevor-bloomfield
 disqus:
   shortname: https-psibir-github-io
+  
+tag_dir: tag
 
 permalink: /:categories/:title/
 
