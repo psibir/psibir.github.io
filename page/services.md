@@ -14,7 +14,7 @@ Here is a list of services that I provide:
 - Audio Editing
 - Music Production
 
-I am also available for consultation regarding these areas:
+I am also available for [consultation](https://psibir.github.io/page/consultation/) regarding these areas:
 
 - Specialty Foods
 - Cheese
