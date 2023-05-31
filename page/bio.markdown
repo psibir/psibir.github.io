@@ -6,7 +6,7 @@ permalink: /page/bio/
 
 ### me in ten seconds
 
-I have been a [musician](https://nauxt.bandcamp.com), [writer](https://philpeople.org/profiles/trevor-bloomfield/publications), cheesemonger, and a [Python developer](https://psibir.github.io/pages/projects/). 
+I have been a [musician](https://nauxt.bandcamp.com), [writer](https://philpeople.org/profiles/trevor-bloomfield/publications), [cheesemonger](https://psibir.github.io/page/cheesemonger/), and a [Python developer](https://psibir.github.io/page/projects/). 
 
 ### my story ###
 
