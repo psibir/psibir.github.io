@@ -24,4 +24,4 @@ I am also available for consultation regarding these areas:
 - Saxophone Instruction
 
 
-For inquiries, contact me via [email](mailto:bloomfieldtm@gmail.com)
+For inquiries, contact me via [email](mailto:bloomfieldtm@gmail.com).
