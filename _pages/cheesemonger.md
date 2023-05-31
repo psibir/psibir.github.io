@@ -13,15 +13,7 @@ Feast your eyes on some examples of my work below.
 
 ## charcuterie
 
-<div class="grid-container">
-  {% for image in site.static_files %}
-    {% if image.path contains 'assets/images/charcuterie/' %}
-      <div class="grid-item">
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" />
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+|![cheeseboard1](/assets/images/charcuterie/cheeseboard1.jpeg)
 
 ## sandwiches
 
