@@ -1,3 +1,16 @@
 ---
 layout: default
+title: Tagged with {{ page.tag }}
 ---
+
+<h1>Posts Tagged with "{{ page.tag }}"</h1>
+
+<ul>
+  {% for post in site.posts %}
+    {% if post.tags contains page.tag %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
