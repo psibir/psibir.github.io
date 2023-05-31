@@ -29,6 +29,16 @@ linkedin_username: trevor-bloomfield
 disqus:
   shortname: https-psibir-github-io
   
+  
+# Tag pages
+plugins:
+  - jekyll-tagging
+
+collections:
+  tags:
+    output: true
+    permalink: /tags/:name/
+  
 tag_dir: tag
 
 permalink: /:categories/:title/
