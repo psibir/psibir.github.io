@@ -2,7 +2,6 @@
 layout: default
 title: cheesemonger
 permalink: /page/cheesemonger/
-
 show_in_navbar: false
 ---
 
@@ -36,4 +35,22 @@ Feast your eyes on some examples of my work below.
     {% endif %}
   {% endfor %}
 </div>
+
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.grid-item {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.grid-item img {
+  width: 100%;
+  height: auto;
+}
+</style>
 {% endraw %}
