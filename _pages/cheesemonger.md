@@ -4,31 +4,32 @@ title: cheesemonger
 permalink: /page/cheesemonger/
 ---
 
-<h2>cheesemonger</h2>
+{% raw %}
+## cheesemonger
 
-<img src="/assets/images/personal/cheesemonger.jpg" alt="Cheesemonger Image">
+![Cheesemonger Image](/assets/images/personal/cheesemonger.JPG)
 
-<p>Feast your eyes on some examples of my work below.</p>
+Feast your eyes on some examples of my work below.
 
-<h2>charcuterie</h2>
+## charcuterie
 
 <div class="grid-container">
   {% for image in site.static_files %}
-    {% if image.path contains '/assets/images/charcuterie/' %}
+    {% if image.path contains 'assets/images/charcuterie/' %}
       <div class="grid-item">
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" />
       </div>
     {% endif %}
   {% endfor %}
 </div>
 
-<h2>sandwiches</h2>
+## sandwiches
 
 <div class="grid-container">
   {% for image in site.static_files %}
-    {% if image.path contains '/assets/images/sandwiches/' %}
+    {% if image.path contains 'assets/images/sandwiches/' %}
       <div class="grid-item">
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}">
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" />
       </div>
     {% endif %}
   {% endfor %}
@@ -51,3 +52,4 @@ permalink: /page/cheesemonger/
   height: auto;
 }
 </style>
+{% endraw %}
