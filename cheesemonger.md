@@ -18,3 +18,7 @@ Feast your eyes on some examples of my work below.
 |![cheeseboard7](/assets/images/charcuterie/cheeseboard7.JPG)|![cheeseboard8](/assets/images/charcuterie/cheeseboard8.JPG)|![cheeseboard9](/assets/images/charcuterie/cheeseboard9.JPG)|
 
 ## sandwiches
+
+|![sandwich1](/assets/images/sandwiches/sandwich1.JPG)|![sandwich2](/assets/images/sandwiches/sandwich2.JPG)|![sandwich3](/assets/images/sandwiches/sandwich3.JPG)|
+|![sandwich4](/assets/images/sandwiches/sandwich4.JPG)|![sandwich5](/assets/images/sandwiches/sandwich5.JPG)|![sandwich6](/assets/images/sandwiches/sandwich6.JPG)|
+|![sandwich7](/assets/images/sandwiches/sandwich7.JPG)|![sandwich8](/assets/images/sandwiches/sandwich8.JPG)|![sandwich9](/assets/images/sandwiches/sandwich9.JPG)|
