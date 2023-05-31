@@ -35,11 +35,11 @@ plugins:
   - jekyll-tagging
 
 collections:
-  tag:
+  _tags:
     output: true
     permalink: /tags/:name/
   
-tag_dir: tag
+tag_dir: _tags
 
 permalink: /:categories/:title/
 
