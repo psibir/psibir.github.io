@@ -9,7 +9,7 @@ show_in_navbar: true
   <ul id="tag-list">
     {% assign tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq %}
     {% for tag in tags %}
-      <li><a href="/tags/{{ tag | slugify }}.html">{{ tag }}</a></li>
+      <li><a href="/tag/{{ tag | slugify }}">{{ tag }}</a></li>
     {% endfor %}
   </ul>
 </div>
