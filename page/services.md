@@ -14,5 +14,14 @@ Here is a list of services that I provide:
 - Audio Editing
 - Music Production
 
+I am also available for consultation regarding these areas:
 
-For inquiries regarding services, contact me via [email](mailto:bloomfieldtm@gmail.com)
+- Specialty Foods
+- Cheese
+- Philosophy of Language
+- Writing and Editing
+- Electronic Music Production
+- Saxophone Instruction
+
+
+For inquiries, contact me via [email](mailto:bloomfieldtm@gmail.com)
