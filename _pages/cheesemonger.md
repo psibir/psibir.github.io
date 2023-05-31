@@ -1,7 +1,7 @@
 ---
 layout: default
 title: cheesemonger
-permalink: /page/cheesemonger/
+permalink: /_pages/cheesemonger/
 ---
 
 {% raw %}
