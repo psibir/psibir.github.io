@@ -35,7 +35,7 @@ plugins:
   - jekyll-tagging
 
 collections:
-  tags:
+  tag:
     output: true
     permalink: /tags/:name/
   
