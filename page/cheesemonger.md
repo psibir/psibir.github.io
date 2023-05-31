@@ -7,9 +7,11 @@ show_in_navbar: false
 
 ## cheesemonger
 
+For the past seven years, I have made a living selling cheese. In that time I have cut over 130 wheels of Parmigiano-Reggiano and thousands of pounds of cheddars, Goudas, blues and bries. But it is not the quantity that is impressive; it is the number of everyday interactions concerning specific components of information that make cheesemongering such a unique skill with surprising cross-domain applications.
+
 ![Cheesemonger Image](/assets/images/personal/cheesemonger.JPG)
 
-Feast your eyes on some examples of my work below.
+Feast your eyes on some examples of my work:
 
 ## charcuterie
 
