@@ -2,7 +2,6 @@
 layout: default
 title: cheesemonger
 permalink: /page/cheesemonger/
-show_in_navbar: false
 ---
 
 {% raw %}
