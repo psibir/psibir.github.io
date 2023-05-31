@@ -7,7 +7,7 @@ permalink: /page/cheesemonger/
 {% raw %}
 ## cheesemonger
 
-![Cheesemonger Image](/assets/images/personal/cheesemonger.jpg)
+![Cheesemonger Image](assets/images/personal/cheesemonger.jpg)
 
 Feast your eyes on some examples of my work below.
 
@@ -15,7 +15,7 @@ Feast your eyes on some examples of my work below.
 
 <div class="grid-container">
   {% for image in site.static_files %}
-    {% if image.path contains '/assets/images/charcuterie/' %}
+    {% if image.path contains 'assets/images/charcuterie/' %}
       <div class="grid-item">
         <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" />
       </div>
@@ -27,7 +27,7 @@ Feast your eyes on some examples of my work below.
 
 <div class="grid-container">
   {% for image in site.static_files %}
-    {% if image.path contains '/assets/images/sandwiches/' %}
+    {% if image.path contains 'assets/images/sandwiches/' %}
       <div class="grid-item">
         <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" />
       </div>
