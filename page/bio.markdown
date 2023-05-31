@@ -10,7 +10,7 @@ I have been a musician, a writer, a cheesemonger, and a Python developer.
 
 ### my story ###
 
-I am a cheesemonger turned software developer with a passion for leveraging technology to solve complex problems. As an experienced professional in the cheese industry, I developed a keen eye for detail and a deep understanding of the importance of providing exceptional customer experiences. You may [contact](https://psibir.github.io/page/contact/) me regarding any [services](https://psibir.github.io/page/services/).
+I am a cheesemonger turned software developer with a passion for leveraging technology to solve complex problems. As an experienced professional in the cheese industry, I developed a keen eye for detail and a deep understanding of the importance of providing exceptional customer experiences. You may [contact](https://psibir.github.io/page/contact/) me regarding any [services](https://psibir.github.io/page/services/) that I provide.
 
 ### recently ###
 
