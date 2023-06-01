@@ -43,7 +43,7 @@ Ultimately, the trial transcends the superficial notion of "property" and is dec
 
 ## Example: Black Mirror
 
-To illustrate the ethical considerations surrounding automation's impact on labor, we can turn to the popular science fiction television series "Black Mirror" and its episode titled "White Christmas." A near inversion of the previous Star Trek example, showing the circumstances of what horrors would await if a being like Data was denied self-determination.
+To illustrate the ethical considerations surrounding automation's impact on labor, we can turn to the popular science fiction television series "Black Mirror" and its episode titled "[White Christmas](https://black-mirror.fandom.com/wiki/White_Christmas)." A near inversion of the previous Star Trek example, showing the circumstances of what horrors would await if a being like Data was denied self-determination.
 
 In this chilling and thought-provoking episode, set in a dystopian near future, advanced technologies have revolutionized the way society operates. One particular technology introduced is a system called "Cookie," which involves creating digital consciousness clones of individuals to perform various tasks and services.
 
