@@ -6,11 +6,11 @@ categories: article
 tags: ['philosophy', 'temporal mechanics', 'futurity', 'time']
 ---
 
-# Introduction
+# The Future Reaches into the Present
 
-The concept of the future, while inherently uncertain and elusive, plays a significant role in shaping our understanding of the world and influencing our thoughts and actions. This essay explores the multifaceted nature of futurity dynamics, examining how the future is defined, its impact on the present, and how our engagement with the future can affect its realization.
+The concept of the future, while inherently uncertain and elusive, plays a significant role in shaping our understanding of the world and influencing our present thoughts and actions. This essay explores the multifaceted nature of futurity dynamics, examining how the future is defined, its impact on the present, and how our engagement with the future can affect its realization.
 
-# Defining the Problem Space
+## Defining the Problem Space
 
 Human societies have developed various practices to render the future knowable, such as Prediction, Projection, Imagination, and Prefiguration. I shall term this set of words as ‘futurities’. They reflect our inclination to understand and anticipate future events.
 
