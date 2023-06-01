@@ -23,7 +23,7 @@ Software engineers hold immense power in shaping the future through their creati
 
 Automation has become a significant force shaping various industries, including software engineering. While it brings efficiency and convenience, it also raises ethical questions about its impact on employment and human well-being. Here, a philosophy degree proves invaluable. By engaging in philosophical ethics, software engineers can approach automation with a conscious and empathetic perspective. They can design technologies that prioritize human welfare and mitigate the potential negative consequences that imperil new technology.
 
-# Drawing Parallels from History and Science Fiction
+# Drawing Parallels from Science Fiction
 
 Studying media, including history and science fiction, software engineers can gain a deeper understanding of the social, cultural, and ethical implications of technology. Drawing parallels from the past and envisioning future possibilities through media studies empowers software engineers to navigate complex technological landscapes with wisdom and foresight. Through analyzing trends in art, philosophically-attuned software engineers can infer trends and streams of thought that would be most receptive (or susceptive) to new services. How this is used only underlines the importance of durable ethics.
 
