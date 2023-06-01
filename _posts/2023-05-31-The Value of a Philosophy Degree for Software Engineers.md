@@ -15,7 +15,7 @@ The Intersection of philosophy and software engineering offers unique perspectiv
 
 Software engineering is inextricably linked with the future. As technology continues to evolve at an unprecedented pace, the ability to anticipate and adapt to emerging trends and technologies become increasingly crucial. A philosophy degree equips software engineers with the tools to engage with the future effectively. By staying ahead of the curve, software engineers are prepared to integrate new information and synthesize insights more effectively.
 
-# Ethics of Technology Use: The Role of Philosophical Inquiry
+# Ethical Technology Use
 
 Software engineers hold immense power in shaping the future through their creations. With this power comes responsibility. A philosophy degree equips software engineers with the tools to address these ethical dilemmas effectively. It enables them to consider the broader societal impact of their work, to question the potential harm or injustice caused by their creations, and to make informed decisions that align with ethical principles. 
 
