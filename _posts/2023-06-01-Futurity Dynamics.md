@@ -23,10 +23,10 @@ Prefiguration refers to actively living and embodying the values and principles 
 
 These various modes of future-oriented knowledge are drivers to innovation and are worthy objects of study. I shall distinguish these situations though comparative  In short, this article aims to affirm the following logical comparisons:
 
-Prediction =/= Lucky Guess
-Projection =/= Common Sense
-Imagination =/= Nonsense
-Prefiguration =/= Delusion
+Prediction =/= Lucky Guess  
+Projection =/= Common Sense  
+Imagination =/= Nonsense  
+Prefiguration =/= Delusion  
 
 # Species of Future-Oriented Knowledge and their Decoys
 
