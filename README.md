@@ -16,4 +16,4 @@ Here you will find some detailed writeups of my GitHub projects. These are from 
 
 ## Contact
 
-If you have any questions or comments about the website or the source code in this repository, please feel free to contact me at bloomfieldtm@gmail.com
+If you have any questions or comments about the website or the source code in this repository, please feel free to contact me.
