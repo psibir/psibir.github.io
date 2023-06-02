@@ -29,7 +29,7 @@ Projection =/= Common Sense
 Imagination =/= Nonsense  
 Prefiguration =/= Delusion  
 
-# Species of Future-Oriented Knowledge and their Decoys
+# Species of Future-Oriented Knowledge
 
 Futurities provide different perspectives or lenses through which we can gain insights and understanding related to the future. They offer ways of knowing that correspond to knowledge of the future, although it is important to acknowledge that true knowledge of the future is unattainable due to its inherent uncertainty and speculative nature. Futurities approach the boundary of what is knowable about the future, pushing the limits of our understanding and offering valuable tools for exploration, analysis, and speculation. By engaging with futurities, we can expand our perspectives and develop nuanced understandings of potential future scenarios.
 
