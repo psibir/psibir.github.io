@@ -11,7 +11,7 @@ Managing product expiration dates is crucial for businesses that deal with peris
 
 # Introducing Spoiltracker
 
-[Spoiltracker on GitHub](www.github.com/psibir/spoiltracker)
+[Spoiltracker on GitHub](https://github.com/psibir/spoiltracker)
 
 The project revolves around an `ExpiryTracker` class, which is responsible for loading shelf life data, processing CSV files containing SKU information, and generating reports based on expiration dates. The class utilizes the `csv` module and the `datetime` module to handle CSV operations and date calculations. this makes Spoiltracker lightweight and it requires nothing but libraries from the standard library.
 
