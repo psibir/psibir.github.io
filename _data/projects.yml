@@ -1,3 +1,10 @@
+- name: spoiltracker
+  logo: /assets/images/spoiltracker_logo.png
+  description: A Simple Product Expiry Management Tool
+  use_case: Spoiltracker is useful for businesses that deal with perishable products and need to keep track of their expiration dates. It can be used in various industries such as food and beverage, agriculture, perishable goods logistics, warehousing, pharmaceuticals, and cosmetics.
+  blog_post: https://psibir.github.io/projects/Automating-Expiry-Tracking/
+  github_link: https://github.com/psibir/spoiltracker
+
 - name: Cheese Recommender Web App
   logo: /assets/images/cheese-recs_logo.png
   description: A cheese recommendation website built with Flask and deployed on Google Cloud Run
