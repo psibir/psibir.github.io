@@ -41,7 +41,7 @@ By utilizing Spoiltracker in deli and cheese counters, businesses can:
 
 ## Installation
 
-To install SpoilerTracker, follow these steps:
+To install Spoiltracker, follow these steps:
 
 1. Clone the repository from GitHub:
 
@@ -49,10 +49,10 @@ To install SpoilerTracker, follow these steps:
    git clone https://github.com/psibir/spoiltracker.git
    ```
 
-2. Navigate to the `spoilertracker/src` directory:
+2. Navigate to the `spoiltracker/src` directory:
 
    ```shell
-   cd spoilertracker/src
+   cd spoiltracker/src
    ```
 
 3. Install the required dependencies. It is recommended to use a virtual environment:
@@ -62,13 +62,13 @@ To install SpoilerTracker, follow these steps:
    source env/bin/activate  # Activate the virtual environment (optional)
    ```
 
-4. Run the `spoilertracker.py` script:
+4. Run the `spoiltracker.py` script:
 
    ```shell
-   python spoilertracker.py
+   python spoiltracker.py
    ```
 
-   This will execute the SpoilerTracker program.
+   This will execute the Spoiltracker script. Use the -h argue to see `help`.
    
 The package can be also be installed using pip:
 
@@ -94,6 +94,7 @@ python spoiltracker [csv_file] [production_date] [--days DAYS] [--remove-expired
 - `--remove-expired` (optional): Flag to remove expired entries from the history file and clear the expiry report file.
 - `--expiry-report-dest FILE` (optional): Destination file for the expiry report. If not provided, the default file "expiryreport.csv" will be used.
 - `--clear-history` (optional): Flag to clear the history file.
+- `-h` : Help menu
 
 ### Python Script Integration
 
