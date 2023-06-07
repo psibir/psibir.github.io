@@ -14,6 +14,6 @@ I am a cheesemonger turned software developer with a passion for leveraging tech
 
 ### recently ###
 
-I have been interested in Web and Backend Development. Some of my [projects](https://psibir.github.io/pages/projects/) are available on this site. You can find the source code of my programming portfolio at [GitHub/psibir](https://github.com/psibir).
+I have been interested in Web and Backend Development. Some of my [projects](https://psibir.github.io/page/projects/) are available on this site. You can find the source code of my programming portfolio at [GitHub/psibir](https://github.com/psibir).
 
 *Trevor Bloomfield is a cheesemonger in Northwest Arkansas with over seven years in the specialty food industry. He holds a Bachelor of Arts in philosophy from the University of Arkansas.*
