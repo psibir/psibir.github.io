@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: contact
+title: Contact
 permalink: /page/contact/
 show_in_navbar: true
 ---
