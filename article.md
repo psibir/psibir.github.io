@@ -1,6 +1,6 @@
 ---
 layout: category
-title: articles
+title: Articles
 category: article
 permalink: /categories/article/
 show_in_navbar: true
