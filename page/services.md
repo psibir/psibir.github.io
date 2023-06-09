@@ -1,6 +1,6 @@
 ---
 layout: page
-title: services
+title: Services
 permalink: /page/services/
 show_in_navbar: true
 ---
@@ -14,7 +14,7 @@ Here is a list of services that I provide:
 - Audio Editing
 - Music Production
 
-I am also available for [consultation](https://psibir.github.io/page/consultation/) regarding these areas:
+I am available for [consultation](https://psibir.github.io/page/consultation/) on these subjects:
 
 - Specialty Foods
 - Cheese
@@ -24,4 +24,4 @@ I am also available for [consultation](https://psibir.github.io/page/consultatio
 - Saxophone Instruction
 
 
-For inquiries, contact me via [email](mailto:bloomfieldtm@gmail.com).
+For inquiries regarding services or consultation, contact me via [email](mailto:bloomfieldtm@gmail.com).
