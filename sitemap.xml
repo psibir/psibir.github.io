@@ -3,7 +3,7 @@ layout:
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
   {% for page in site.pages %}
   {% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}
       <url>
