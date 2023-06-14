@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: cross-domain"
+title: "Tag: Cross-Domain"
 tag: cross-domain
 ---
