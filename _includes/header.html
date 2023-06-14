@@ -20,7 +20,8 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- assign excluded_tags = ["Tag: language", "Tag: philosophy", "Tag: pimentomori"] -%}
-            {%- unless my_page.tags contains_any excluded_tags or my_page.layout == 'tag' -%}
+            {%- assign has_excluded_tag = my_page.tags | filter_has_any: excluded_tags -%}
+            {%- unless has_excluded_tag or my_page.layout == 'tag' -%}
               {%- if my_page.title and my_page.title != "home" and my_page.title != "Cheesemonger" and my_page.title != "Consultation" and my_page.title != "Writings"-%}
                 <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               {%- endif -%}
@@ -29,5 +30,4 @@
         </div>
       </nav>
     {%- endif -%}
-  </div>
-</header>
+ 
