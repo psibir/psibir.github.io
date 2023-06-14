@@ -3,6 +3,7 @@ layout: post
 title:  "The Value of a Philosophy Degree for Software Engineers"
 date:   2023-05-31 21:20
 categories: article
+tags: ['business', 'philosophy']
 ---
 
 # Introduction
