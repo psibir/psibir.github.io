@@ -7,8 +7,14 @@ show_in_navbar: true
 <div id="sidebar">
   <h2>Tags</h2>
   <ul id="tag-list">
-    {% for tag in site.tags %}
-      <li><a href="/tags/{{ tag[0] | slugify }}">{{ tag[0] }}</a></li>
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
+      {% capture tag_url %}/tags/{{ tag[0] | slugify }}{% endcapture %}
+      {% if forloop.first %}
+        <li><a href="{{ tag_url }}">{{ tag[0] }}</a></li>
+      {% else %}
+        <li>| <a href="{{ tag_url }}">{{ tag[0] }}</a></li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
