@@ -3,7 +3,7 @@ layout: post
 title:  "Futurity Dynamics"
 date:   2023-06-01 04:56
 categories: article
-tags: ['philosophy', 'temporal mechanics', 'futurity', 'time']
+tags: ['philosophy', 'time']
 ---
 
 # The Future Reaches into the Present
