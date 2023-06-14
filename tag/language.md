@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: language"
+title: "Tag: Language"
 tag: language
 ---
