@@ -3,6 +3,7 @@ layout: post
 title:  "cheese-recs-web-app"
 date:   2023-05-08 11:07
 categories: projects
+tags: ['cheese']
 ---
 
 ![image](/assets/images/cheese-recs_logo.png)
