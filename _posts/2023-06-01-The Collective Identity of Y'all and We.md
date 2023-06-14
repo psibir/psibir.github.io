@@ -3,6 +3,7 @@ layout: post
 title:  "The Collective Identity of Y'all and We"
 date:   2023-06-01 05:26
 categories: article
+tags: ['language']
 ---
 
 Language is not only a means of communication but also a reflection of social dynamics and cultural identities. This short essay serves to locate the sociolinguistic factors surrounding the usage of "y'all" and "we" as linguistic markers of collective identity. While "y'all" represents a collective dissociative plural, leaving group identities indeterminate, "we" signifies a collective associative plural, indicating a group with an identifiable clause. By comparing these terms to the Northeastern regional variation of "youse," which is often seen as overly determined and hyper individuating, we can gain insight into how language shapes and reflects our social interactions and identities.
