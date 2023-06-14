@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: philosophy"
+title: "Tag: Philosophy"
 tag: philosophy
 ---
