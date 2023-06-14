@@ -3,6 +3,7 @@ layout: post
 title:  "Marching Band: A Blueprint for Organizational Excellence"
 date:   2023-05-16 01:40
 categories: article
+tags: ['business', 'music']
 ---
 
 A marching band is composed of individuals with unique skills, but success comes from each understanding their role and working as a united team. Every member makes their contribution, whether they are in the low brass section, the horns and reeds, the drumline, color guard, the twirlers, or the principle piccolo.
