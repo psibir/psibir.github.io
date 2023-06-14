@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: pimentomori"
+title: "Tag: PimentoMori"
 tag: pimentomori
 ---
