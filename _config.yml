@@ -30,6 +30,10 @@ disqus:
   shortname: https-psibir-github-io
   
   
+- name: Tag Page Generator for Jekyll Blogs
+  uses: hendrixjoseph/jekyll-tag-page-generator-action@v1.01
+
+  
 # Tag pages
 plugins:
   - jekyll-tagging
