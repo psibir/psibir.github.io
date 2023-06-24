@@ -3,7 +3,7 @@ layout: post
 title:  "Luxury Beliefs"
 date:   2023-06-24 13:00
 categories: article
-tags: [’theory']
+tags: [theory]
 ---
 
 A curious phenomenon has emerged among modern society—a concept known as "luxury beliefs." These are ideas and convictions that individuals adopt not out of necessity or practicality but as status symbols or markers of privilege. In recent years, the notion of luxury beliefs has gained attention, shedding light on the complex interplay between ideology, social status, and identity. In this essay, we will delve into the concept of luxury beliefs and draw a parallel by likening them to collectible ideology booster packs. Examining the motivations, implications, and societal factors surrounding luxury beliefs, we can gain a deeper understanding of this intriguing phenomenon.
