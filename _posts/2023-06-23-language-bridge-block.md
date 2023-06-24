@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  'Language as a Bridge or Block'
