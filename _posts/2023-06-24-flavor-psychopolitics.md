@@ -3,7 +3,7 @@ layout: post
 title:  Flavor Psychopolitics
 date:   2023-06-24 14:20
 categories: article
-tags: [‘business’, 'philosophy']
+tags: [business, 'philosophy']
 ---
 
 Flavor marketing naming schemes have emerged as powerful tools through which corporations exert control over our sensory experiences. Once a private experience, taste has become commodified and particular flavors are determined by a committee. Examining the evolution of these strategies can uncover the underlying motivations and tactics employed by corporations to manipulate our senses and shape our preferences.
