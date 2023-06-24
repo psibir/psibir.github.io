@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Flavor Psychopolitics”
+title:  Flavor Psychopolitics
 date:   2023-06-24 14:20
 categories: article
 tags: [‘business’, 'philosophy']
