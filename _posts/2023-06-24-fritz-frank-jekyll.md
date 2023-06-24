@@ -3,7 +3,7 @@ layout: post
 title:  Fritz/Igor, Frankenstein, Jekyll/Hyde
 date:   2023-06-24 14:00
 categories: article
-tags: [‘literature']
+tags: [literature]
 ---
 
 In classic literature, misconceptions surrounding character names can often lead to intriguing symbolism and deeper interpretations. This article explores the instances of misremembering Fritz/Igor, the nameless monster in “Frankenstein” by Mary Shelley and the motivations behind Dr. Jekyll's transformation into Mr. Hyde from "The Strange Case of Dr. Jekyll and Mr. Hyde” by Robert Louis Stevenson, we unravel the layers of meaning that these misconceptions represent.
