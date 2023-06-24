@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Luxury Beliefs
+title:  "Luxury Beliefs"
 date:   2023-06-24 13:00
 categories: article
 tags: [’theory']
