@@ -8,19 +8,19 @@ tags: [business, 'philosophy']
 
 Flavor marketing naming schemes have emerged as powerful tools through which corporations exert control over our sensory experiences. Once a private experience, taste has become commodified and particular flavors are determined by a committee. Examining the evolution of these strategies can uncover the underlying motivations and tactics employed by corporations to manipulate our senses and shape our preferences.
 
-##Literal Naming
+## Literal Naming
 
 Literal naming schemes prioritize simplicity and marketability above all else. High-velocity consumer packaged goods  often rely on this as their is no imagination required. By assigning straightforward names like "cherry" or "lemon," companies seek to create an immediate connection between the flavor name and the taste experience. While this approach offers clarity, it disregards the complexity and uniqueness of flavors from different varieties of fruit, collapsing them into flat, homogenous derivations of the original. This has the effect of reducing dynamic flavors with seasonal and varietal differences to generic interchangeable labels; corporations streamline their messaging but sacrifice the depth and diversity that exist within flavor profiles.
 
-##Analogical Naming
+## Analogical Naming
 
 Analogical naming schemes aim to exploit our desire for familiarity and tap into our emotional responses. Names like "tropical punch" draw upon our existing knowledge and positive associations with tropical flavors, evoking images of exotic fruits and refreshing beverages. Similarly, the term "blue raspberry" exemplifies how analogical naming can combine familiar elements to create a unique flavor experience. While raspberries themselves are not naturally blue, the combination of raspberry flavor with a vibrant blue hue taps into our recognition of raspberries while adding a visually distinct twist. By leveraging our emotional connection to raspberries and our curiosity for novel flavors, companies entice consumers to explore this imaginative blend. It is essential to remain aware of the intentional manipulation involved in these analogical associations, as they are carefully crafted to steer our preferences toward specific flavor profiles, including the unconventional yet intriguing "blue raspberry." 
 
-##Metaphorical Naming
+## Metaphorical Naming
 
 Metaphorical naming schemes leverage our emotions and cultural references to create an immersive experience. Flavor names such as “Tiger's Blood" or “Silver Fox” in snowcones evoke a sense of intrigue, excitement, and adventure. By tapping into our shared narratives and desires, companies aim to establish a deeper connection with consumers.One must critically assess whether these metaphorical names genuinely reflect the flavor experience or if they rely on emotional manipulation and empty promises, leading to consumer disillusionment and loss of trust in the company who produced the product.
 
-##Hyperstitious Naming
+## Hyperstitious Naming
 
 Hyperstitious naming represents the pinnacle of sensationalism. Examples include names like one of Monster energy drinks named “Ultra Paradise" designed to elicit extreme sensations and transport the consumer away from the experience of the product itself and into a world constructed by The Brand. Another example is Five gum, which has modeled their ad campaign not dissimilar to that of Axe Body Spray. The product is less about the flavor imparted to the consumer and rather a signifier of the cool, calm, and collected lifestyle. Employing hyperbolic language and invoking superstitions, companies aim to create an irresistible allure that keeps consumers hooked on their products. Whether these experiences enhance our enjoyment or if they are mere marketing tactics aimed at securing market dominance loses its distinction as they are packaged to fulfill the same desire and quell the fear that the consumer is making an excellent choice that reflects well upon their status. The hyperstitious approach risks prioritizing hype and exaggerated claims over genuine flavor satisfaction, favoring the ‘star power’ granted by being seen consuming the product.
 
