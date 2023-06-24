@@ -3,7 +3,7 @@ layout: post
 title:  'Language as a Bridge or Block'
 date:   2023-06-23 13:30
 categories: article
-tags: [‘language’, 'philosophy’, ‘theory’]
+tags: [‘language’, 'philosophy’]
 ---
 
 Language, a complex and intricate system of communication, has fascinated philosophers and theorists for centuries. Among the various viewpoints on language, the perspectives of Holderlein and Hegel differ significantly from those of Lacan and the postmodernists. These differing views shed light on how language can be understood as a revelatory tool for exploring the essence of human existence. In this article, we will delve into the contrasting interpretations and examine the role of language as a bridge to authentic selfhood.
