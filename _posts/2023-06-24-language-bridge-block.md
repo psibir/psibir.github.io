@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Language as a Bridge or Block"
+title:  'Language as a Bridge or Block'
 date:   2023-06-24 13:30
 categories: article
 tags: [‘language’, 'philosophy’, ‘theory’]
