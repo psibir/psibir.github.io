@@ -19,17 +19,26 @@ Each industry has their own harbingers of failure. Some are customers who are si
 Here are some traits of the harbingers of failure:
 
 **Impulsive Buyer**: They tend to make purchasing decisions quickly without conducting thorough research or considering long-term consequences. This impulsive behavior increases the likelihood of choosing underperforming products.
+
 **Price-Focused**: They prioritize finding products at the lowest possible price, often compromising on quality or reliability. They are easily attracted to discounted items or budget-friendly options, even if they may not meet their expectations.
+
 **Lack of Product Knowledge**: They have limited understanding of product specifications, features, or industry standards. This lack of knowledge makes it difficult for them to assess the quality and performance of products accurately.
+
 **Minimal Research**: They rarely invest time or effort into researching products before making a purchase. They might rely solely on marketing claims or recommendations from friends or family without verifying the information.
+
 **Limited Brand Awareness**: They may not be familiar with reputable brands or their track records in terms of quality and customer satisfaction. As a result, they might overlook reliable brands and unknowingly choose underperforming alternatives.
+
 **Influenced by Peer Opinions**: They are easily swayed by the opinions and experiences of others, especially friends or online reviews. If they come across negative feedback or reviews, it can significantly influence their decision to avoid a particular product.
+
 **Limited Product Experience**: They might not have prior experience with a specific product category, which can lead to misjudgments or unrealistic expectations. Without a baseline for comparison, they might unknowingly select underperforming products.
+
 **Lack of Technical Expertise**: They have limited knowledge or understanding of technical aspects of products, such as specifications, performance metrics, or compatibility requirements. This can result in suboptimal choices, especially for technologically advanced products.
+
 **High Price Sensitivity**: They are highly sensitive to price fluctuations and may perceive higher-priced products as overpriced, even if they offer superior quality or value. They often prioritize short-term savings over long-term benefits.
+
 **Limited Access to Information**: Due to various factors, such as geographic location, limited internet access, or language barriers, they may have restricted access to reliable product information or resources that could aid in making informed choices.
 
-Does this sound like your average customer? if so, you may need to reexamine your business model. 
+Does this sound like your average customer? If so, you may need to reexamine your business model. 
 
 ### Catagorizing Harbingers of Failure
 
