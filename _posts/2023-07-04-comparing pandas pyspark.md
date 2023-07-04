@@ -8,6 +8,26 @@ tags: ['programming', 'computerscience']
 
 Data processing and analysis are crucial components of any data-driven project. Python provides several powerful libraries for data manipulation, such as Pandas and PySpark. In this article, we will explore the differences between these two popular frameworks by examining an example code snippet in both Pandas and PySpark. We will focus on the similarities and divergences in their syntax, functionality, and performance.
 
+Consider this situation and the different ways to solve them using Pandas or Pyspark:
+
+You work for a video streaming platform and are given a DataFrame containing information about videos available on the platform. The DataFrame named input_df that has the following schema:
+
+
++--------------+-----------+
+| Column Name  | Data Type |
++--------------+-----------+
+| video_id     | Integer   |
+| title        | String    |
+| genre        | String    |
+| release_year | Integer   |
+| duration     | Integer   |
+| view_count   | Integer   |
++--------------+-----------+
+
+
+Your task is to write a function etl that takes in the input DataFrame and returns a DataFrame containing only the videos with more than 1,000,000 views and released in the last 5 years. The output DataFrame should have the same schema as the input DataFrame.
+
+
 Pandas Method:
 The initial code snippet utilizes the Pandas library to perform data extraction, transformation, and loading (ETL) operations. Let's break down the Pandas code:
 
