@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comparing Pandas vs. PySpark"
+title:  "Comparing Pandas and PySpark"
 date:   2023-07-04 16:03
 categories: article
 tags: ['programming', 'computerscience']
