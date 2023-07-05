@@ -12,7 +12,7 @@ Consider this situation and the different ways to solve them using Pandas or Pys
 
 You work for a video streaming platform and are given a DataFrame containing information about videos available on the platform. The DataFrame named input_df that has the following schema:
 
-
+```
 +--------------+-----------+
 | Column Name  | Data Type |
 +--------------+-----------+
@@ -23,7 +23,7 @@ You work for a video streaming platform and are given a DataFrame containing inf
 | duration     | Integer   |
 | view_count   | Integer   |
 +--------------+-----------+
-
+```
 
 Your task is to write a function etl that takes in the input DataFrame and returns a DataFrame containing only the videos with more than 1,000,000 views and released in the last 5 years. The output DataFrame should have the same schema as the input DataFrame.
 
