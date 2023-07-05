@@ -25,7 +25,7 @@ You work for a video streaming platform and are given a DataFrame containing inf
 +--------------+-----------+
 ```
 
-Your task is to write a function etl that takes in the input DataFrame and returns a DataFrame containing only the videos with more than 1,000,000 views and released in the last 5 years. The output DataFrame should have the same schema as the input DataFrame.
+Your task is to write a function ’etl’ that takes in the input DataFrame and returns a DataFrame containing only the videos with more than 1,000,000 views and released in the last 5 years. The output DataFrame should have the same schema as the input DataFrame.
 
 
 Pandas Method:
