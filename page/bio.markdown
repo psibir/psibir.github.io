@@ -6,11 +6,11 @@ permalink: /page/bio/
 
 ### me in ten seconds
 
-I have been a [musician](https://nauxt.bandcamp.com), [writer](https://philpeople.org/profiles/trevor-bloomfield/publications), [cheesemonger](https://psibir.github.io/page/cheesemonger/), and a [Python developer](https://psibir.github.io/page/projects/).
+I have been a [musician](https://nauxt.bandcamp.com), [writer](https://philpeople.org/profiles/trevor-bloomfield/publications), [cheesemonger](https://psibir.github.io/page/cheesemonger/), and a [software engineer](https://psibir.github.io/page/projects/).
 
 ### my story ###
 
-I am a cheesemonger turned software developer with a passion for leveraging technology to solve complex problems. As an experienced professional in the cheese industry, I developed a keen eye for detail and a deep understanding of design and working within shifting parameters. You may [contact](https://psibir.github.io/page/contact/) me regarding any [services](https://psibir.github.io/page/services/) that I provide.
+I am a cheesemonger turned software engineer with a passion for leveraging technology to solve complex problems. As an experienced professional in the cheese industry, I developed a keen eye for detail and a deep understanding of design and working within shifting parameters. You may [contact](https://psibir.github.io/page/contact/) me regarding any [services](https://psibir.github.io/page/services/) that I provide.
 
 ### recently ###
 
