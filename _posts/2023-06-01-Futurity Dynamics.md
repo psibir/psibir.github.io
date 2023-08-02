@@ -8,11 +8,11 @@ tags: ['philosophy', 'time']
 
 # The Future Reaches into the Present
 
-The concept of the future, while inherently uncertain and elusive, plays a significant role in shaping our understanding of the world and influencing our present thoughts and actions. This essay explores the multifaceted nature of futurity dynamics, examining how the future is defined, its impact on the present, and how our engagement with the future can affect its realization.
+The concept of the future, while inherently uncertain and elusive, plays a significant role in shaping our understanding of the world and influencing our present thoughts and actions. This essay explores decisionmaking as the result of practices facilitating futurity dynamics, examining how the future is defined, its impact on the present, and how our engagement with the future can affect its realization.
 
 ## Defining the Problem Space
 
-Human societies have developed various practices to render the future knowable, such as Prediction, Projection, Imagination, and Prefiguration. I shall term this set of words as ‘futurities’. They reflect our inclination to understand and anticipate future events.
+Human societies have developed various practices to render the future knowable, such as Prediction, Projection, Imagination, and Prefiguration. They reflect our inclination to understand and anticipate future events as discrete events.
 
 Prediction involves using available data, historical patterns, and statistical models to estimate future events. Predictive analytics and forecasting techniques help us make informed decisions based on projected outcomes, enabling us to navigate uncertain terrain.
 
@@ -22,7 +22,7 @@ Imagination allows us to create visions of the future that transcend existing co
 
 Prefiguration refers to actively living and embodying the values and principles of a desired future in the present. It involves experimenting with alternative social structures, practices, and technologies as a way to bring about the envisioned future. Social movements and intentional communities often employ prefigurative strategies to challenge existing systems.
 
-These various modes of future-oriented knowledge are drivers to innovation and are worthy objects of study. I shall distinguish these situations though comparative  In short, this article aims to affirm the following logical comparisons:
+These various modes of future-oriented routines are drivers to innovation and are worthy objects of study. I shall distinguish these situations though comparative  In short, this article aims to affirm the following logical comparisons:
 
 Prediction =/= Lucky Guess  
 Projection =/= Common Sense  
@@ -31,9 +31,9 @@ Prefiguration =/= Delusion
 
 # Species of Future-Oriented Knowledge
 
-Futurities provide different perspectives or lenses through which we can gain insights and understanding related to the future. They offer ways of knowing that correspond to knowledge of the future, although it is important to acknowledge that true knowledge of the future is unattainable due to its inherent uncertainty and speculative nature. Futurities approach the boundary of what is knowable about the future, pushing the limits of our understanding and offering valuable tools for exploration, analysis, and speculation. By engaging with futurities, we can expand our perspectives and develop nuanced understandings of potential future scenarios.
+Future-oriented knowledge producing routines provide a different perspective through which we can gain insights and understanding related to the future. They offer ways of knowing that correspond to knowledge of the future, although it is important to acknowledge that true knowledge of the future is unattainable due to its inherent uncertainty and speculative nature. Future-oriented practices approach the boundary of what is knowable about the future, pushing the limits of our understanding and offering valuable tools for exploration, analysis, and speculation. By engaging with possible futurities as real events, we can expand our perspectives and develop nuanced understandings of potential future scenarios.
 
-We are met with a particular genus of question that asks, "What makes a ‘prediction’ different that a ‘lucky guess’?” However, what this question is indirectly asking about are the grounds, foundational evidence, or justification that legitimizes a claim made about a perceived pattern that cannot be known for certain, such as the future. 
+We are met with a particular genus of question that asks, *"What makes a ‘prediction’ different that a ‘lucky guess’?”* However, what this question is indirectly asking about are the **grounds**, foundational evidence, or justification that legitimizes a claim made about a perceived pattern that cannot be known for certain, such as the future. 
 
 Let’s revisit the distinctions of these eight concepts in relation to their impact on the future.
 
