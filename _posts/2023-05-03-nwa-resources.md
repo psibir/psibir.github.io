@@ -2,7 +2,7 @@
 layout: post
 title:  "nwa-resources"
 date:   2023-05-03 21:48
-categories: projects
+tags: projects
 ---
 
 I am excited to announce the launch of nwa-resources, a new community resource that provides information on social services in Northwest Arkansas. As a member of this community, I recognized the need for a centralized source of information on social services, such as financial assistance, housing, food pantries, and low-income medical and dental providers.
