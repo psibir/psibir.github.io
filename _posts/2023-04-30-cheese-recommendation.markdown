@@ -2,7 +2,6 @@
 layout: post
 title:  "cheese-recommendation"
 date:   2023-04-30 11:07
-categories: projects
 ---
 
 `cheese-recommendation` is a Python program that recommends cheeses based on user input. The program reads in a list of cheeses from a tab-separated values (TSV) file and uses a TfidfVectorizer from scikit-learn to create a matrix of the cheeses' descriptions. It then uses cosine similarity to calculate the similarity between the user's input and the cheese descriptions, and returns a list of the most similar cheeses. The program also has the ability to exclude certain qualities or characteristics from the recommendations.
