@@ -2,7 +2,7 @@
 layout: post
 title:  "sandwich-generator"
 date:   2023-04-20 22:05
-categories: projects
+tags: projects
 ---
 
 For this project, i tried to make something that had practical use at my job at a cheese shop that serves grilled cheese sandwiches and gourmet melts. 
