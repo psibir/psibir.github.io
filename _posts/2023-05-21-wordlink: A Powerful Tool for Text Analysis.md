@@ -2,7 +2,7 @@
 layout: post
 title:  "wordlink: A Powerful Tool for Text Analysis"
 date:   2023-05-21 20:20
-categories: projects
+tags: projects
 ---
 
 ![image](/assets/images/wordlink_logo.png)
