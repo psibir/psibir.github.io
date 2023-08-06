@@ -2,7 +2,7 @@
 layout: post
 title:  "Automating Expiry Tracking in Python with Spoiltracker"
 date:   2023-06-06 12:44
-categories: projects
+tags: projects
 ---
 
 ![spoiltracker logo](/assets/images/spoiltracker_logo.png)
