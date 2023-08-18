@@ -12,21 +12,3 @@ layout: default
     </li>
   {% endfor %}
 </ul>
-
-<h2>Stories</h2>
-<ul>
-  {% for post in site.categories['story'] %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<h2>Screenplays</h2>
-<ul>
-  {% for post in site.categories['play'] %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
