@@ -2,7 +2,7 @@
   logo: /assets/images/specxtract_logo.png
   description: A Specification Parser for DOCX
   use_case: Specxtract is a utility designed to extract product specifications, features, and related information from DOCX files. It uses regular expressions to identify specific patterns in the text and extracts relevant data.
-  blog_post: https://psibir.github.io/projects/specxtract
+  blog_post: https://psibir.github.io/specxtract
   github_link: https://github.com/psibir/specxtract
 
 - name: spoiltracker
