@@ -2,6 +2,7 @@
 layout: post
 title:  "Automating Specification Extraction from DOCX with Specxtract"
 date:   2023-08-18 15:00
+category: project
 tags: projects
 ---
 
