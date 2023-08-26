@@ -5,3 +5,4 @@ TODO
 - add 'subscribe' button to footer.html
 - generate site map file
 - update README with instructions on how to configure various parts of the site
+- refactor file locations to be in consistent project structure
