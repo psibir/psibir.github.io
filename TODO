@@ -1,6 +1,7 @@
 TODO
 
-- add 'music' page for Naux albums
+- add 'music' page for Naux albums, artist bio, statement, reviews, embedded links
 - add 'writings' page for articles, stories, plays, scripts
 - add 'subscribe' button to footer.html
 - generate site map file
+- update README with instructions on how to configure various parts of the site
