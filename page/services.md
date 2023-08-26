@@ -8,8 +8,7 @@ show_in_navbar: true
 Here is a list of services that I provide:
 
 - Software Development (Python)
-- Web Scraping
-- Static Website Creation
+- Copywriting
 - Photo Editing
 - Audio Editing
 - Music Production
