@@ -12,7 +12,7 @@ Here you will find some of my musings. These are from blog posts with category l
 
 ### Projects
 
-Here you will find some detailed writeups of my GitHub projects. These are from blog posts with category labeled 'projects'.
+Here you will find some detailed writeups of my GitHub projects. These are from blog posts with category labeled 'project'.
 
 ## Contact
 
