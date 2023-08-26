@@ -6,3 +6,5 @@ TODO
 - generate site map file
 - update README with instructions on how to configure various parts of the site
 - refactor file locations to be in consistent project structure
+- make a solution or readme instructions with for generating new tags from new articles
+- add 'memory', 'death' tags in the `tag` directory
