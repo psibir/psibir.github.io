@@ -1,10 +1,3 @@
-- name: tagpop
-  logo: /assets/images/tagpop_logo.png
-  description: Finds [tags] from an .XLSX and replaces with attributes from a .CSV
-  use_case: Tagpop automates the insertion of attribute information into product descriptions, eliminating the need for manual content creation
-  blog_post: https://psibir.github.io/project/tagpop/
-  github_link: https://github.com/psibir/tagpop
-
 - name: specxtract
   logo: /assets/images/specxtract_logo.png
   description: A Specification Parser for DOCX
